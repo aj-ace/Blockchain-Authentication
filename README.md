@@ -1,6 +1,7 @@
 This application allows users to take down notes
 
 Instead of your typical login methods, this application uses blockchain technology to authenticate the user
+
 After authentication, the users can view, add, update and delete their own notes
 
 The client folder contains the front-end web client code built using reactjs
