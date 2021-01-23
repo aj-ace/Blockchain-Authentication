@@ -4,8 +4,8 @@ Instead of your typical login methods, this application uses blockchain technolo
 
 After authentication, the users can view, add, update and delete their own notes
 
-The client folder contains the front-end web client code built using reactjs
+The client folder contains the front-end web client code built using reactjs and material UI
 
-The contract folder contains the smart contract code
+The contract folder contains the smart contract code (ethereum contract)
 
 The server folder contains the back-end code built using nodejs with expressjs framework and MongoDB for database
